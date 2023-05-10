@@ -40,9 +40,5 @@ Your task is to:
 
 Note that you're not allowed to change names or signatures of functions passed to components as properties.
 
-For more details, please run the task on the Devskiller platform and see the failing tests.
-
-### Make sure that all tests pass.
-
 ## Good Luck!
 
